@@ -26,7 +26,7 @@ The '''[[2025 Indian Premier League]] playoffs''' will be played between the top
 |}<section end="gso"/>
 
 == Venues ==
-{{Further|2025 ICC Champions Trophy#Venues}}
+{{Further|2025 Indian Premier League#Venues}}
 
 {| class="wikitable" style="text-align:center;margin:auto;font-size:90%;
 ! [[Hyderabad]]
