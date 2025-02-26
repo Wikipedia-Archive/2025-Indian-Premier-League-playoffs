@@ -12,8 +12,8 @@ The '''[[2025 Indian Premier League]] playoffs''' will be played between the top
 ! rowspan="2" width=50% | Qualification
 ! colspan="2" width=50% | Playoffs <ref>{{cite web |title=2025 Indian Premier League, playoffs |url=https://www.iplt20.com/matches/playoffs |work=IPL |url-status=live}}</ref>
 |-
-! width=25% | [[2025 Indian Premier League playoffs#Qualifier 1 1|Qualifier 1]]
-! width=25% | [[2025 Indian Premier League playoffs#Eliminator 2|Eliminator]]
+! width=25% | [[2025 Indian Premier League playoffs#Qualifier 1|Qualifier 1]]
+! width=25% | [[2025 Indian Premier League playoffs#Eliminator|Eliminator]]
 |-
 | rowspan="2" width=40% | {{nowrap|Advanced from the [[2025 Indian Premier League#League stage|league stage]]}}<br><small>(Top 4 teams from the league stage)</small>
 | 1st placed team
